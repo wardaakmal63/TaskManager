@@ -1,25 +1,32 @@
-TaskManager
-Overview
+# **TaskManager**
+
+## **Overview**  
 TaskManager is a simple yet powerful application designed to streamline task management and boost productivity. With TaskManager, users can create, manage, and track their tasks effectively, ensuring no deadline is missed.
 
-Features
-Add, edit, and delete tasks
-Organize tasks by categories
-Mark tasks as completed or pending
-Save and load task data for persistent tracking
-User-friendly interface with easy navigation
-Technologies Used
-Programming Language: [e.g., Python, C++, JavaScript]
-Libraries/Frameworks: [e.g., React.js, Node.js, etc.]
-Version Control: Git
-Getting Started
-Follow these steps to set up the project locally:
+---
 
-Clone the repository:
+## **Features**  
+- Add, edit, and delete tasks  
+- Organize tasks by categories  
+- Mark tasks as completed or pending  
+- Save and load task data for persistent tracking  
+- User-friendly interface with easy navigation  
 
-bash
-Copy code
-git clone https://github.com/wardaakmal63/TaskManager.git
+---
+
+## **Technologies Used**  
+- **Programming Language**: [e.g., Python, C++, JavaScript]  
+- **Libraries/Frameworks**: [e.g., React.js, Node.js, etc.]  
+- **Version Control**: Git  
+
+---
+
+## **Getting Started**  
+Follow these steps to set up the project locally:  
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/wardaakmal63/TaskManager.git
 Navigate to the project directory:
 
 bash
@@ -40,9 +47,18 @@ Contributing
 Contributions are welcome! If you’d like to improve this project:
 
 Fork the repository
-Create a feature branch (git checkout -b feature-name)
-Commit your changes (git commit -m "Add feature")
-Push to your branch (git push origin feature-name)
+Create a feature branch:
+bash
+Copy code
+git checkout -b feature-name
+Commit your changes:
+bash
+Copy code
+git commit -m "Add feature"
+Push to your branch:
+bash
+Copy code
+git push origin feature-name
 Open a pull request
 License
 This project is licensed under the MIT License.
@@ -51,4 +67,3 @@ Contact
 If you have any questions or suggestions, feel free to reach out!
 
 GitHub: @wardaakmal63
-Email: [your-email@example.com]
